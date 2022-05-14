@@ -24,5 +24,4 @@
  
 </div>
 
- "https://github-readme-stats.vercel.app/api?username=andre-ciccozzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-https://github-readme-stats.vercel.app/api/top-langs/?username=andre-ciccozzi&layout=compact&langs_count=7&theme=dracula
+
