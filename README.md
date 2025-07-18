@@ -18,7 +18,7 @@
 <div style="display: inline_block" align="center">
   <img alt="Python" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python">
   <img alt="Pandas" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="Pandas">
-  <img alt="PowerBI" height="45" style="margin:5px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" title="Power BI">
+  <img alt="PowerBI" height="45" style="margin:5px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI">
   <img alt="MySQL" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL">
   <img alt="AWS" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS">
 </div>
@@ -60,7 +60,7 @@
 - ☁️ Cloud Computing (AWS)  
 - 📊 Advanced Data Visualization  
 
-✨ *"Turning raw data into meaningful insights is my passion."*  
+
 
 ---
 
