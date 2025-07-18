@@ -1,25 +1,87 @@
-## I'm André, developer and passionate about technology!💻
+# **André Ciccozzi**  
+### *Data Analyst & Developer | Technology Enthusiast* 💻📊  
+
+---
+
 <div align="center">
- <a href="https://github.com/andre-ciccozzi">  
-<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=andre-ciccozzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-ciccozzi&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/andre-ciccozzi">
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=andre-ciccozzi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-ciccozzi&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>
- <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
- <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
- <img align="center" alt="PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
- <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
+---
+
+## **🛠️ Tech Stack | Data Analysis & Development**  
+
+### **📊 Data Analysis & BI**  
+<div style="display: inline_block" align="center">
+  <img alt="Python" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python">
+  <img alt="Pandas" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="Pandas">
+  <img alt="PowerBI" height="45" style="margin:5px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" title="Power BI">
+  <img alt="MySQL" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL">
+  <img alt="AWS" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS">
+  <img alt="Tableau" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" title="Tableau">
 </div>
-  
-  ##
- 
-<div> 
-  <a href ="mailto:dovalleciccozzi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andré-ciccozzi-71360b1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
- 
- ![Snake animation](https://github.com/andre-ciccozzi/andre-ciccozzi/blob/output/github-contribution-grid-snake.svg)
 
+### **💻 Development & Others**  
+<div style="display: inline_block" align="center">
+  <img alt="SQL" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL">
+  <img alt="Git" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git">
+  <img alt="Jupyter" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter">
+  <img alt="Excel" height="45" style="margin:5px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" title="Excel">
+  <img alt="Spark" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark">
+</div>
 
+---
+
+## **📈 GitHub Analytics**  
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=andre-ciccozzi&theme=react-dark&bg_color=0D1117&hide_border=true&area=true">
+</div>
+
+---
+
+## **📬 Let's Connect!**  
+<div align="center"> 
+  <a href="mailto:dovalleciccozzi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/andré-ciccozzi-71360b1b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+  <a href="https://github.com/andre-ciccozzi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</div>
+
+---
+
+### **🔍 Currently Exploring**  
+- 🧠 Machine Learning & AI  
+- ☁️ Cloud Computing (AWS, Azure)  
+- 📊 Advanced Data Visualization  
+- 🔗 ETL Pipelines & Data Engineering  
+
+✨ *"Turning raw data into meaningful insights is my passion."*  
+
+---
+
+### **🎨 Profile Features**  
+✔ Modern, data-focused design  
+✔ Interactive GitHub stats  
+✔ Tech stack with hover titles  
+✔ Activity graph visualization  
+✔ Professional contact options  
+✔ Responsive layout  
+
+🚀 *Open to collaborations & new opportunities in Data Analysis!*  
+
+---
+
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=andre-ciccozzi&theme=radical&hide_border=true&background=0D1117">
+</div>
