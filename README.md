@@ -14,7 +14,7 @@
 
 ## **🛠️ Tech Stack | Data Analysis & Development**  
 
-### ** Data Analysis & BI**  
+###  Data Analysis & BI 
 <div style="display: inline_block" align="center">
   <img alt="Python" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python">
   <img alt="Pandas" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="Pandas">
@@ -23,7 +23,7 @@
   <img alt="AWS" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS">
 </div>
 
-### ** Development & Others**  
+###  Development & Others
 <div style="display: inline_block" align="center">
   <img alt="SQL" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL">
   <img alt="Git" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git">
@@ -33,14 +33,14 @@
 
 ---
 
-## ** GitHub Analytics**  
+##  GitHub Analytics
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=andre-ciccozzi&theme=react-dark&bg_color=0D1117&hide_border=true&area=true">
 </div>
 
 ---
 
-## **Let's Connect!**  
+## Let's Connect!  
 <div align="center"> 
   <a href="mailto:dovalleciccozzi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -55,7 +55,7 @@
 
 ---
 
-### ** Currently Exploring**  
+###  Currently Exploring 
 - 🧠 Machine Learning & AI  
 - ☁️ Cloud Computing (AWS)  
 - 📊 Advanced Data Visualization  
