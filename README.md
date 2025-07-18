@@ -1,5 +1,5 @@
-# **André Ciccozzi**  
-### *Data Analyst & Developer | Technology Enthusiast*  
+# André Ciccozzi
+### Data Analyst & Developer | Technology Enthusiast 
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## **🛠️ Tech Stack | Data Analysis & Development**  
+## Tech Stack | Data Analysis & Development
 
 ###  Data Analysis & BI 
 <div style="display: inline_block" align="center">
