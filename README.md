@@ -21,7 +21,6 @@
   <img alt="PowerBI" height="45" style="margin:5px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" title="Power BI">
   <img alt="MySQL" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL">
   <img alt="AWS" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS">
-  <img alt="Tableau" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" title="Tableau">
 </div>
 
 ### **💻 Development & Others**  
@@ -30,7 +29,6 @@
   <img alt="Git" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git">
   <img alt="Jupyter" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter">
   <img alt="Excel" height="45" style="margin:5px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" title="Excel">
-  <img alt="Spark" height="45" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark">
 </div>
 
 ---
@@ -53,32 +51,16 @@
   <a href="https://github.com/andre-ciccozzi">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
 </div>
 
 ---
 
 ### **🔍 Currently Exploring**  
 - 🧠 Machine Learning & AI  
-- ☁️ Cloud Computing (AWS, Azure)  
+- ☁️ Cloud Computing (AWS)  
 - 📊 Advanced Data Visualization  
-- 🔗 ETL Pipelines & Data Engineering  
 
 ✨ *"Turning raw data into meaningful insights is my passion."*  
-
----
-
-### **🎨 Profile Features**  
-✔ Modern, data-focused design  
-✔ Interactive GitHub stats  
-✔ Tech stack with hover titles  
-✔ Activity graph visualization  
-✔ Professional contact options  
-✔ Responsive layout  
-
-🚀 *Open to collaborations & new opportunities in Data Analysis!*  
 
 ---
 
